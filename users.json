@@ -1,0 +1,34 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Diego",
+            "apellido": "Herrera",
+            "edad": 16,
+            "telefono": "2302-5410",
+            "email": "diego.herrera@ues.edu.sv",
+            "password": "123456",
+            "cargo": "Full-stack developer",
+            "nacionalidad": "Salvadoreño"
+        },
+        {
+            "nombre": "Juan",
+            "apellido": "Pérez",
+            "edad": 30,
+            "telefono": "7548-3410",
+            "email": "juan@perez.com",
+            "password": "654321",
+            "cargo": "Front-end developer",
+            "nacionalidad": "Guatemalteco"
+        },
+        {
+            "nombre": "Diana",
+            "apellido": "Valladares",
+            "edad": 21,
+            "telefono": "8532-9632",
+            "email": "diana@dev.net",
+            "password": "246810",
+            "cargo": "Back-end developer",
+            "nacionalidad": "Canadience"
+        }
+    ]
+}
